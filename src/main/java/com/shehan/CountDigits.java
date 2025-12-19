@@ -9,6 +9,6 @@ public class CountDigits {
     }
 
     public static void main(String[] args) {
-        System.out.println(count(12345));
+        System.out.println(count(302550));
     }
 }

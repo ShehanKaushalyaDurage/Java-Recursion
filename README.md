@@ -1,7 +1,3 @@
-Below is a **clean, professional, GitHub-ready `README.md`** you can copy-paste directly into your repository.
-It is written assuming **all examples are in separate Java classes with the same class names**, exactly as you described.
-
----
 
 # 🔁 Java Recursion – Examples & Concepts
 
@@ -20,7 +16,6 @@ In Java, recursion is commonly used for:
 This repository contains **clear, beginner-to-intermediate recursion examples**, written using **simple Java class structures** and **easy-to-understand logic**, making it ideal for:
 
 * Learning recursion fundamentals
-* Interview preparation
 * Practicing problem-solving skills
 
 ---
@@ -175,7 +170,7 @@ This repository reinforces:
 
 ---
 
-## ⚠️ Important Recursion Tips (Interview-Critical)
+## ⚠️ Important Recursion Tips
 
 ### ✅ Best Practices
 
@@ -213,15 +208,6 @@ After completing this repository, you should be able to:
 * Identify base and recursive cases
 * Trace recursive calls using the call stack
 * Apply recursion to real interview problems
-
----
-
-## 📎 Recommended Next Steps
-
-* Optimize recursion using **memoization**
-* Learn **tail recursion**
-* Practice **backtracking problems**
-* Explore **tree recursion**
 
 ---
 

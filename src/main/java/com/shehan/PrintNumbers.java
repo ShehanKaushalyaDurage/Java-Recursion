@@ -3,7 +3,7 @@ package com.shehan;
 public class PrintNumbers {
 
     static void printNumbers(int n) {
-        if(n == 0){
+        if(n == 0){ // base case
             System.out.println("return");
             return;
         }
